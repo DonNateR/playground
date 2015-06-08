@@ -1,0 +1,6 @@
+# Content mapping file that tells deconstr where
+# the content repo lives
+
+[docs-migration]
+
+/ https://github.com/rackerlabs/docs-migration
